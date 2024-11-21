@@ -7,9 +7,28 @@ img {
   height: 100px;
 }
 
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 52px 52px 52px;
+
+  
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+
+}
+
+
+.flower {
+  width: 200px;
+  text-align: center;
+  
 }
 
 /* do not edit this footer */
